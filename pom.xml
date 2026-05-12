@@ -8,7 +8,7 @@
 		<version>4.0.6</version>
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
-	<groupId>cn.fjtic</groupId>
+	<groupId>cn.xm</groupId>
 	<artifactId>xy</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name/>
